@@ -17,5 +17,9 @@
 [gmail]: utku.cetinkaya@hotmail.com
 <br />
 
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=utkucetinkaya&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkucetinkaya&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=utkucetinkaya&show_icons=true&locale=en" alt="utkucetinkaya" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=utkucetinkaya&" alt="utkucetinkaya" />
+</p>
