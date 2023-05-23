@@ -26,4 +26,3 @@
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=utkucetinkaya&" alt="utkucetinkaya" />
 </p>
 
-![](https://komarev.com/ghpvc/?username=utkucetinkaya)
