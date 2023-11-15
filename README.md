@@ -1,8 +1,8 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=036F9FB1&background=FF191900&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B;It's+Utku+%C3%87etinkaya;Welcome+to+my+GitHub+Profile..." alt="Typing SVG" /></a>
 
-- 🌱 I’m currently learning iOS & Swift!
-- 🤔 I'm looking for help on internship and working!
+- 🌱 I’m currently learning Swift & SwiftUI!
+- 🤔 I'm looking for help on working!
 - 💬 Ask me about Swift
 - 📫 How to reach me: utku.cetinkaya@hotmail.com
 
